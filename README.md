@@ -1,6 +1,6 @@
 # Achievement-6 Human Trafficking
 
-### background
+### Background
 Human Trafficking is a crime that involves the kidnapping, transporting or coercing peopler into forced labor, commercial sex work or or other non-voluntary services. It occurs world wide, and while it happens to men and women, of the estimates 40 million poeple currently being trafficked, around 70% are women and girls. 
 In this project, trafficking incidents reported to police in the United States are investigated.
 
@@ -17,7 +17,7 @@ The aim of this project is to answer the following questions
 
 - Did covid have an impact on the number of cases?
 
-### dataset
+### Dataset
 The data was obtained from https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads
 
 
