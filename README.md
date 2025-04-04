@@ -20,6 +20,9 @@ The aim of this project is to answer the following questions
 ### Dataset
 The data was obtained from https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads
 
+### LInk to tableau
+Tableau Achievement 6 Human Trafficking
+
 
 
 
