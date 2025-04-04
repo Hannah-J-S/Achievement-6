@@ -21,8 +21,7 @@ The aim of this project is to answer the following questions
 The data was obtained from https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads
 
 ### LInk to tableau
-Tableau Achievement 6 Human Trafficking
-
+(https://public.tableau.com/shared/T3B7XHCPK?:display_count=n&:origin=viz_share_link)
 
 
 
